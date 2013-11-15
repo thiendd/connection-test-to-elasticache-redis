@@ -8,5 +8,9 @@
     "config": "~0.4.33",
     "redis": "~0.9.0",
     "hiredis": "~0.1.15"
+  },
+  "devDependencies": {
+    "request": "~2.27.0",
+    "underscore": "~1.5.2"
   }
 }

@@ -23,7 +23,7 @@ http.createServer(function(req, res){
       //close connection
       setTimeout(function(){
         redisClient.quit();
-      }, 1000 * 60 * 10);
+      }, 1000 * 60 * 10);   // 10 minites
     });
   });
 }).listen(port);
