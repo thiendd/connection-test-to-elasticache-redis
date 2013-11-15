@@ -5,6 +5,8 @@
   "main": "server.js",
   "author": "",
   "dependencies": {
+    "config": "~0.4.33",
+    "redis": "~0.9.0",
     "hiredis": "~0.1.15"
   }
 }
