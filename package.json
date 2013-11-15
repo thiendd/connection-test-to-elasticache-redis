@@ -1,0 +1,10 @@
+{
+  "name": "heroku_elasti_redis",
+  "version": "0.0.0",
+  "description": "",
+  "main": "server.js",
+  "author": "",
+  "dependencies": {
+    "hiredis": "~0.1.15"
+  }
+}
